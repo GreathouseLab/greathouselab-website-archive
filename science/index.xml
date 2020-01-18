@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Greathouse Lab</title>
+    <link>/science/</link>
+      <atom:link href="/science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Greathouse Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Greathouse Lab</title>
+      <link>/science/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/science/opportunities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/science/opportunities/</guid>
+      <description>&lt;h4 id=&#34;obesity-prevention&#34;&gt;Obesity Prevention&lt;/h4&gt;
+&lt;p&gt;Obesity is a disease affecting more than one-third of our population, and is on the rise in countries with improving economies. We know that as people adopt Western lifestyles, both their diet and microbiome change dramatically, increasing obesity incidence. Dietary intake is one the most important factors shaping our resident microbial ecosystem, which also contributes to obesity development. We have been conducting studies to better understand the relationship between dietary intake, the microbiome, and weight gain. Currently, we are conducting a dietary fiber intervention among medical residents to study the effect on weight gain, body composition changes, appetite hormones.&lt;/p&gt;
+&lt;p&gt;Elisa Morales-Marroquin, Blake Hanson, Leigh Greathouse, Nestor de la Cruz-Munoz, Sarah E. Messiah (under review). Comparison of Methodological Approaches to Human Gut Microbiota Changes in Response to Metabolic and Bariatric Surgery: A Systematic Review. Obesity Reviews. Manuscript submitted for publication.&lt;/p&gt;
+&lt;p&gt;K. Leigh Greathouse, Bríd M. Ryan, Cari M. Kitahara, Elise D. Bowman, Curtis C. Harris (under review). Lung Cancer Risk is Mediated by Anthropometric Measurement in European and African Americans. Cancer Causes and Control. Manuscript submitted for publication.&lt;/p&gt;
+&lt;p&gt;K. Leigh Greathouse, R. Noah Padgett, Aadil Sheik, Joseph Petrosino, M. Hastings-Tolsma, M.A Faucher (under review). Exploration of diet quality by obesity severity in association with gestational weight gain and distal gut microbiota in pregnant African American women: A Pilot Study. Plos Pathogens. Manuscript submitted for publication.&lt;/p&gt;
+&lt;p&gt;Faucher, M. A., Greathouse, K. L., Hastings-Tolsma, M., Padgett, R. N., Sakovich, K., Choudhury, 
+A., Petrosino, J. F. (2019). Exploration of the Vaginal and Gut Microbiome in African American Women by Body Mass Index, Class of Obesity, and Gestational Weight Gain: A Pilot Study. Am J Perinatol. doi:10.1055/s-0039-1692715&lt;/p&gt;
+&lt;p&gt;K. Leigh Greathouse, M. Faucher, M. Hastings-Tolsma. “The Gut Microbiome, Obesity, and 
+weight control in Women’s Reproductive Health.” Western Journal of Nursing Research. 
+2017 Aug.&lt;/p&gt;
+&lt;h4 id=&#34;cancer-prevention&#34;&gt;Cancer Prevention&lt;/h4&gt;
+&lt;p&gt;Colorectal cancer (CRC) is the second most lethal cancer in the U.S.. Alarmingly, incidence and mortality from CRC is on the rise among those under the age of 50. Several studies now highlight the microbiome as a key biomarker and contributor to colon cancer development. Diet is also key in preventing cancer, especially colon cancer. Unfortunately, very little focus has been placed on understanding the interaction between diet and the gut microbiome in cancer prevention and treatment response to cancer therapy. The standard treatment usually includes surgery and chemotherapy and now immunotherapy. These treatments, while demonstrating improvement in survival, often have severe side effects, such as severe diarrhea, that can be both transient and long-lasting. Studies from our research indicate that diet is likely a key factor in predicting treatment toxicity, and possible target for intervention. We are currently developing the tools necessary to arcuately capture dietary information during cancer treatment, as well as, microbiome data to better understand and identify the factors that predict cancer risk and response to therapy. Additionally, we previously identified a link between the lung microbiome and mutation in a tumor suppressor gene, TP53, and are studying this relationship in colon cancer.&lt;/p&gt;
+&lt;p&gt;Greathouse, K. L., White, J. R., Padgett, R. N., Perrotta, B. G., Jenkins, G. D., Chia, N., &amp;amp; Chen, J. 
+(2018). Gut microbiome meta-analysis reveals dysbiosis is independent of body mass index in predicting risk of obesity-associated CRC. BMJ Open Gastroenterology.&lt;/p&gt;
+&lt;p&gt;Greathouse KL, White JR, Vargas AJ, Bliskovsky VV, Beck JA, von Muhlinen N, Polley EC, 
+Bowman ED, Khan MA, Robles AI, Cooks T, Ryan BM, Padgett N, Dzutsev AH, Trinchieri G, Pineda MA, Bilke S, Meltzer PS, Hokenstad AN, Stickrod TM, Walther-Antonio MR, Earl JP, Mell JC, Krol JE, Balashov SV, Bhat AS, Ehrlich GD, Valm A, Deming C, Conlan S, Oh J, Segre JA, Harris CC. (2018). Interaction between the microbiome and TP53 in human lung cancer. Genome Biology, 19(1), 123. doi:10.1186/s13059-018-1501-6&lt;/p&gt;
+&lt;h4 id=&#34;inflammation-prevention&#34;&gt;Inflammation Prevention&lt;/h4&gt;
+&lt;p&gt;Chronic inflammatory diseases, which include both obesity and cancer, have been on the rise in Western countries for decades, yet clinical tools for prediction or curative treatments remain elusive. Bacteria in the colon play a key role in regulating the balance between acute and chronic inflammation, and understanding how to re-establish immune homeostasis is paramount in preventing chronic inflammatory disease development. The inflammatory response is governed, in part, through recognition of extracellular microbial RNA species by host cell receptors, including Toll-like Receptors (TLRs). Extracellular bacterial RNA is able to bind host TLRs and activate inflammatory signals, as well as provide tolerance to microbes. Recently, bacterial small RNA (sRNA) species were identified within outer membrane vesicles (OMVs) that are shed by bacteria. Small RNAs represent a critical trigger governing whether host cells respond with pro- or anti-inflammatory signals. It is unclear, however, how these sRNA species are parsed as cargo in OMVs, how sRNA species are transmitted from the bacteria to host intestinal epithelial cells, nor the mechanisms dictating host response to sRNA. We have evidence now showing that these OMV-derived small RNAs activate TLRs and the inflammatory pathways in epithelial cells. Defining the mechanisms by which bacteria use sRNA species to communicate with the host, and its role in controlling inflammation, holds promise for development of new strategies to control inflammation and re-establish intestinal homeostasis.&lt;/p&gt;
+&lt;h4 id=&#34;microbiome-research-standardization&#34;&gt;Microbiome Research Standardization&lt;/h4&gt;
+&lt;p&gt;Human microbiome research has been exploding, but has outstripped standardization practices. Our lab has been leading the charge to improve access to improved protocols in human microbiome studies. Standardization in microbiome analyses is fundamental to reliably measure the human microbiome. Variability in results can stem from all the steps in the human microbiome study process including sample collection, DNA extraction, sequencing, and bioinformatics. Of these, DNA extraction was identified by the MicroBiome Quality Control project (MBQC), the International Human Microbiome Standards (IHMS) group, and others as contributing a majority of experimental variability. Together with other labs, we set forth a list of best practices for laboratories considering human microbiome studies, especially those working with low biomass samples (e.g. fresh-frozen tissues). Our goal is to continue to improve protocols and to help other researchers produce high-quality and reproducible microbiome research.&lt;/p&gt;
+&lt;p&gt;Greathouse, K.L., Sinha, R. &amp;amp; Vogtmann, E. (2019). DNA extraction for human microbiome studies: the issue of standardization. Genome Biology&lt;/p&gt;
+&lt;p&gt;Elisa Morales, Jun Chen, K. Leigh Greathouse. Compositional Analysis of the Human Microbiome in Cancer Research. Cancer Metabolism: Methods and Protocols. Springer, 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
