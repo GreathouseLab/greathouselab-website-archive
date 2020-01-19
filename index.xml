@@ -2,51 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Greathouse Lab</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>/greathouselab.github.io/</link>
+      <atom:link href="/greathouselab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>The Greathouse Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/greathouselab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>The Greathouse Lab</title>
-      <link>/</link>
+      <link>/greathouselab.github.io/</link>
     </image>
     
     <item>
-      <title>Opportunities</title>
-      <link>/labbusiness/opportunities/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/labbusiness/opportunities/</guid>
-      <description>&lt;p&gt;If you are interested in joining the lab we are always looking for self-motivated, dedicated, and jovial individuals. 
-We like to train and mentor young scientists at all levels, undergrad, graduate, and postdoctoral. 
-If you are interested in our masters program in nutrition or our joint PhD program with Health, Human Performance and Recreation, please apply through our graduate program &lt;a href=&#34;https://www.baylor.edu/graduate/index.php?id=958628&#34;&gt;https://www.baylor.edu/graduate/index.php?id=958628&lt;/a&gt;. 
-We also take rotation students through the Biology PhD program.
-We are always happy to talk about our research and how you might fit into our group.&lt;/p&gt;
-</description>
+      <title>Lab Resources</title>
+      <link>/greathouselab.github.io/labresources/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/greathouselab.github.io/labresources/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>DNA extraction for human microbiome studies: the issue of standardization</title>
-      <link>/papers/greathouse2019gb/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/papers/greathouse2019gb/</guid>
+      <title>Papers</title>
+      <link>/greathouselab.github.io/papers/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/greathouselab.github.io/papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science</title>
+      <link>/greathouselab.github.io/science/</link>
+      <pubDate>Sun, 19 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/greathouselab.github.io/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gut microbiome meta-analysis reveals dysbiosis is independent of body mass index in predicting risk of obesity associated CRC</title>
+      <link>/greathouselab.github.io/publication/crc-meta/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/greathouselab.github.io/publication/crc-meta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction between the microbiome and TP53 in human lung cancer</title>
+      <link>/greathouselab.github.io/publication/genome-bio-lung-cancer/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0500</pubDate>
+      <guid>/greathouselab.github.io/publication/genome-bio-lung-cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>/greathouselab.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
+      <guid>/greathouselab.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>/terms/</link>
+      <link>/greathouselab.github.io/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
+      <guid>/greathouselab.github.io/terms/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
