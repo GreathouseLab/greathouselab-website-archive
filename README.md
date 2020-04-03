@@ -2,4 +2,4 @@
 
 Link to website:
 
-greathouse.github.io
+https://greathouselab.github.io/
